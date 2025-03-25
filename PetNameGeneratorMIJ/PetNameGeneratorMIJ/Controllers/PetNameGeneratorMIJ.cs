@@ -6,8 +6,8 @@ namespace PetNameGeneratorMIJ.Controllers
 {
     public class PetNameGeneratorMIJ : Controller
     {
-        public string[] Dogs =
-                {
+public string[] Dogs =
+        {
            "Fluffy", "Spot", "Rover", "Spike", "Fido", "Whiskers", "Mittens", "Snowball", "Buddy", "Max", "Lycaon"
         };
 
